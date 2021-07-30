@@ -2,7 +2,9 @@
 
 This project fetches channel statistics from YouTube's Data API and sends them to a [DIY split-flap display](https://www.partsnotincluded.com/building-diy-split-flap-displays/).
 
-For more information, [check out the project article here](https://www.partsnotincluded.com/split-flap-youtube-subscriber-counter).
+[![YouTube Video: Split-Flap Subscriber Counter](https://user-images.githubusercontent.com/24282108/127647824-dd503acf-b23b-4a29-84bd-f234ba6b3729.jpg)](https://www.youtube.com/watch?v=PxT0BK_w22A "Split-Flap Subscriber Counter")
+
+For more information, [watch the YouTube video](https://www.youtube.com/watch?v=PxT0BK_w22A) or [check out the project article here](https://www.partsnotincluded.com/split-flap-youtube-subscriber-counter).
 
 ## Getting Started
 
