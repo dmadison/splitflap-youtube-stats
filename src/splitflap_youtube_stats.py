@@ -722,6 +722,7 @@ class ChannelStats(YouTubeStatTracker):
 		self.display.print(self.youtube.channel_title)
 		self.display.print_stat("Views", self.view_count)
 		self.display.print_stat("Vids", self.video_count)
+		self.display.clear()
 
 
 class RecentVideoStats(YouTubeStatTracker):
@@ -808,6 +809,8 @@ class RecentVideoStats(YouTubeStatTracker):
 				self.display.print_stat(stat_dict[key], stat)
 			except KeyError:
 				print("Error: Could not retrieve '{}' value from video stats".format(key))
+
+		self.display.clear()
 
 
 
